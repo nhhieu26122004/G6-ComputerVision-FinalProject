@@ -305,4 +305,8 @@ Good luck! 💪
 **Last updated:** [15/10/2025]  
 **Version:** 1.0  
 **Môn:** Thị Giác Máy Tính  
-**Học kỳ:** [Điền vào]
+**Học kỳ:** 1-1-25  
+**Thành viên:**
+
+- Nguyễn Huy Hiếu - 22010160
+- Vũ Tuấn Anh -
